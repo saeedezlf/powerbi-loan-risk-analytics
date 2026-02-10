@@ -40,7 +40,7 @@ This solution analyzes loan performance, credit risk, and fraud behavior using S
 ## 🖼️ Dashboard Preview
 
 ### Executive Summary
-![Executive Summary](ScreenShots/executive-summary.jpg)
+![Executive Summary](1- Executive Summary.jpg)
 
 ### Credit Risk Analysis
 ![Risk Analysis](ScreenShots/risk-analysis.jpg)
