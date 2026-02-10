@@ -26,6 +26,21 @@ Designed and developed an end-to-end analytics solution to monitor loan performa
 - Power BI dashboard development
 - Stakeholder reporting
 
+  ## Dashboard Preview
+
+### Executive Summary
+![Executive](screenshots/1-%20Executive%20Summary.jpg)
+
+### Risk Analysis
+![Risk](screenshots/2-%20Credit%20Risk%20Analysis.jpg)
+
+### Fraud Detection
+![Fraud](screenshots/3-%20Fraud%20Detection%20Insight.jpg)
+
+### Customer Overview
+![Customer](screenshots/4-%20Customer%20Overview.jpg)
+
+
 ## How to Open
 Download dashboard.pbix and open with Power BI Desktop
 
