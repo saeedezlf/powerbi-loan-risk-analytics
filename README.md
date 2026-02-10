@@ -30,4 +30,4 @@ Designed and developed an end-to-end analytics solution to monitor loan performa
 Download dashboard.pbix and open with Power BI Desktop
 
 ## Author
-Saeedeh – Data Analyst
+Saeedeh – Data / ‌Business Analyst
