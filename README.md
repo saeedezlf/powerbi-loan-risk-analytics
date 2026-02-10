@@ -29,7 +29,7 @@ Designed and developed an end-to-end analytics solution to monitor loan performa
   ## Dashboard Preview
 
 ### Executive Summary
-![Executive](screenshots/1-%20Executive%20Summary.jpg)
+![Executive]([screenshots/1-%20Executive%20Summary.jpg](https://github.com/saeedezlf/powerbi-loan-risk-analytics/blob/main/1-%20Executive%20Summary.jpg))
 
 ### Risk Analysis
 ![Risk](screenshots/2-%20Credit%20Risk%20Analysis.jpg)
