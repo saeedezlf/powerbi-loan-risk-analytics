@@ -46,7 +46,7 @@ This solution analyzes loan performance, credit risk levels, and fraud behavior 
 ![Credit Risk Analysis](2-%20Credit%20Risk%20Analysis.jpg)
 
 ## Fraud Detection Insight
-![Fraud Detection](3-%20Fraud%20Detection.jpg)
+![Fraud Detection](3-%20Fraud%20Detection%20Insight.jpg)
 
 ## Customer Overview
 ![Customer Overview](4-%20Customer%20Overview.jpg)
