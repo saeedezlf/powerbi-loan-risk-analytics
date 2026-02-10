@@ -1,46 +1,57 @@
-# Credit Risk & Fraud Detection Dashboard
+# 📊 Credit Risk & Fraud Detection Dashboard
 
-## Project Overview
-Designed and developed an end-to-end analytics solution to monitor loan performance, detect fraud patterns, and assess customer credit risk.
+Real-world end-to-end Data Analytics & Business Intelligence project developed during my internship.
 
-## Tech Stack
-- Power BI (DAX, Power Query)
+This solution analyzes loan performance, credit risk, and fraud behavior using SQL, ETL processes, and Power BI dashboards to support executive decision-making.
+
+---
+
+## 🚀 Tech Stack
+
+- Power BI (DAX, Power Query, Data Modeling)
 - SQL Server
-- ETL workflows
-- Data Modeling (Star Schema)
+- ETL & Data Cleaning
+- Star Schema Design
+- KPI & Business Metrics Reporting
 
-## Key Features
-- Risk score segmentation
-- Default rate tracking
-- Fraud pattern analysis
-- KPI executive dashboard
-- Regional performance comparison
+---
 
-## Screenshots
-(see screenshots folder)
+## 🎯 Business Goals
 
-## My Role
-- Data modeling
-- ETL pipeline design
-- SQL transformations
-- Power BI dashboard development
-- Stakeholder reporting
+- Identify high-risk customers
+- Monitor default rates
+- Detect fraud patterns
+- Track loan portfolio performance
+- Provide executive-level insights
 
-  ## Dashboard Preview
+---
 
+## 📈 Key Features
 
-### Risk Analysis
-![Risk](1- Executive Summary.jpg)
+✅ Risk score segmentation  
+✅ Default rate analysis  
+✅ Fraud detection insights  
+✅ Regional performance comparison  
+✅ Interactive KPI dashboard  
+✅ Executive summary page  
 
-### Fraud Detection
-![Fraud](screenshots/3-%20Fraud%20Detection%20Insight.jpg)
+---
+
+## 🖼️ Dashboard Preview
+
+### Executive Summary
+![Executive Summary](ScreenShots/executive-summary.jpg)
+
+### Credit Risk Analysis
+![Risk Analysis](ScreenShots/risk-analysis.jpg)
+
+### Fraud Detection Insights
+![Fraud Detection](ScreenShots/fraud-detection.jpg)
 
 ### Customer Overview
-![Customer](screenshots/4-%20Customer%20Overview.jpg)
+![Customer Overview](ScreenShots/customer-overview.jpg)
 
+---
 
-## How to Open
-Download dashboard.pbix and open with Power BI Desktop
+## 🗂️ Repository Structure
 
-## Author
-Saeedeh – Data / ‌Business Analyst
