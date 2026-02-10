@@ -67,6 +67,6 @@ This solution analyzes loan performance, credit risk levels, and fraud behavior 
 ## 👩‍💻 Author
 
 Saeedeh  
-Data Analyst | Power BI | SQL | ETL | Analytics  
+Data/‌Business Analyst | Power BI | SQL | ETL | Analytics  
 
 GitHub Portfolio Project – Available for technical review
